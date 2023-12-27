@@ -1,0 +1,6 @@
+dist
+.eslintrc.js
+.*
+index.html
+*.md
+auto-import.d.ts
